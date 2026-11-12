@@ -7,6 +7,9 @@ public class Main {
         Membro2.presentar(Julia);
  
         Membro3.presentar(Brais);
+        Membro2.presentar();
+ 
+        Membro3.presentar();
  
         // Membro4.presentar();
 
