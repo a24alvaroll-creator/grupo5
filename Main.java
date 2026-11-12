@@ -2,11 +2,11 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("=== O noso equipo ===");
  
-        Membro1.presentar();
+        Membro1.presentar(Alavaro);
  
-        Membro2.presentar();
+        Membro2.presentar(Julia);
  
-        // Membro3.presentar();
+        Membro3.presentar(Brais);
  
         // Membro4.presentar();
 
